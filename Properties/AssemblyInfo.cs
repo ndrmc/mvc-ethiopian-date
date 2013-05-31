@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EthCal")]
+[assembly: AssemblyTitle("ETH_Calender")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("EthCal")]
+[assembly: AssemblyProduct("ETH_Calender")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a632520f-78b5-4a2c-8195-9361a1a689e5")]
+[assembly: Guid("ef90d0ed-ce65-4846-aff2-59f95a7a8a69")]
 
 // Version information for an assembly consists of the following four values:
 //
