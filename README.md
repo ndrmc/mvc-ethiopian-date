@@ -1,5 +1,5 @@
 Nuget package implementing date computation based on Ethiopic Calendar system
-=============================================================================
+-----------------------------------------------------------------------------
 This package includes functionalities to enable your ASP.NET MVC application to accept and display dates based on the
 Ethiopic Calendar System. There are a number of features for MVC developement including:
 *	A class to convert Gregorian date time into Ethiopc (Julian) datetime system.
